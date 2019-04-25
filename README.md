@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Materialize-Colors
 
-You can use the [editor on GitHub](https://github.com/NoahvdAa/Materialize-Colors/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Do you need all the colors supported by the [Materialize CSS project](https://materializecss.com/)?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Then this is what you're looking for!
 
-### Markdown
+The file [color-to-name.json](https://raw.githubusercontent.com/NoahvdAa/Materialize-Colors/master/color-to-name.json) contains hex codes and their names.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you want to convert the color name to hex, use [name-to-color.json](https://raw.githubusercontent.com/NoahvdAa/Materialize-Colors/master/name-to-color.json).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NoahvdAa/Materialize-Colors/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Minfied versions are available: [color-to-name.min.json](https://raw.githubusercontent.com/NoahvdAa/Materialize-Colors/master/color-to-name.min.json) and [name-to-color.min.json](https://raw.githubusercontent.com/NoahvdAa/Materialize-Colors/master/name-to-color.min.json)
